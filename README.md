@@ -1,2 +1,1 @@
-# CV
-CV for rs.school
+https://syncreator.github.io/rsschool-cv/cv

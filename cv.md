@@ -33,13 +33,11 @@ return a \* b
 
 ## Education
 
-#### Donetsk State University.####
+### Donetsk State University
 
-Faculty of Physics, specialty - radiophysics and electronics.
-Received a diploma of higher education.
-Qualification – the engineer
+Faculty of Physics, specialty - radiophysics and electronics. Received a diploma of higher education. Qualification – the engineer
 
 ## Languages
 
-- #### Russian: ##### native speaker
-- #### English: ##### A2(in process..)
+- ### Russian: native speaker
+- ### English:### A2(in process..)
