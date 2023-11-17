@@ -1,6 +1,4 @@
-# rsschool-cv
-
----
+# [rsschool-cv](https://syncreator.github.io/rsschool-cv/cv)
 
 # Yurii Savichev
 
@@ -25,11 +23,11 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 
 ## Code Example
 
-\```python
+```js
 function multiply(a, b){
 return a \* b
 }
-\```
+```
 
 ## Education
 
@@ -39,5 +37,5 @@ Faculty of Physics, specialty - radiophysics and electronics. Received a diploma
 
 ## Languages
 
-- ### Russian: native speaker
-- ### English:### A2(in process..)
+- ### **Russian:** native speaker
+- ### **English:** A2(in process..)
