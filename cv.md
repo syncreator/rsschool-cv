@@ -4,10 +4,10 @@
 
 ## Contacts
 
-- Location:
-- Phone:
-- Email:
-- GitHub:
+- Location: Kyiv, Ukraine
+- Phone: +38(099)555-58-08
+- Email: syncreator@gmail.com
+- GitHub: https://github.com/syncreator
 
 ## About Me
 
@@ -24,8 +24,8 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 ## Code Example
 
 ```js
-function multiply(a, b){
-return a \* b
+function multiply(a, b) {
+  return a * b;
 }
 ```
 
@@ -33,9 +33,13 @@ return a \* b
 
 ### Donetsk State University
 
-Faculty of Physics, specialty - radiophysics and electronics. Received a diploma of higher education. Qualification – the engineer
+##### Faculty of Physics, specialty - radiophysics and electronics.
+
+##### Received a diploma of higher education.
+
+##### Qualification – the engineer
 
 ## Languages
 
-- ### **Russian:** native speaker
-- ### **English:** A2(in process..)
+- ### Russian: ##### native speaker
+- ### English: ##### A2(in process..)
