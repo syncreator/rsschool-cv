@@ -8,6 +8,7 @@
 - Phone: +38(099)555-58-08
 - Email: syncreator@gmail.com
 - GitHub: https://github.com/syncreator
+- Linkedin: https://linkedin.com/in/yuriy-savichev-049233237
 
 ## About Me
 
@@ -41,5 +42,5 @@ function multiply(a, b) {
 
 ## Languages
 
-- #### <b>Russian:</b> native speaker
-- #### <b>English:</b> A2(in process..)
+- #### **_Russian:_** native speaker
+- #### **_English:_** A2(in process..)
