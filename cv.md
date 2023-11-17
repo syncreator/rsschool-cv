@@ -31,15 +31,15 @@ function multiply(a, b) {
 
 ## Education
 
-### Donetsk State University
+### Donetsk State University 1993-1998
 
-##### Faculty of Physics, specialty - radiophysics and electronics.
+#### Faculty of Physics, specialty - radiophysics and electronics.
 
-##### Received a diploma of higher education.
+### Courses:
 
-##### Qualification – the engineer
+- #### [C++ training center Cursor](https://kursor.kiev.ua/)
 
 ## Languages
 
-- ### Russian: ##### native speaker
-- ### English: ##### A2(in process..)
+- #### <b>Russian:</b> native speaker
+- #### <b>English:</b> A2(in process..)
