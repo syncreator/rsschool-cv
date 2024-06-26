@@ -28,6 +28,9 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 function multiply(a, b) {
   return a * b;
 }
+//...
+let calculate = multiply(1, 2);
+alert( calculate );
 ```
 
 ## Education
@@ -41,6 +44,6 @@ function multiply(a, b) {
 - #### [C++ training center Cursor](https://kursor.kiev.ua/)
 
 ## Languages
-
+- #### **_Ukrainian:_** native speaker
 - #### **_Russian:_** native speaker
-- #### **_English:_** A2(in process..)
+- #### **_English:_** A2(self-study)
