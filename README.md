@@ -1,2 +1,2 @@
 # rsschool-cv
-https://syncreator.github.io/rsschool-cv/cv
+https://syncreator.github.io/rsschool-cv/
