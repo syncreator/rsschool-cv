@@ -1,2 +1,2 @@
 # rsschool-cv
-CV project
+https://syncreator.github.io/rsschool-cv/
